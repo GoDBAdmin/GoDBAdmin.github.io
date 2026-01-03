@@ -4,7 +4,7 @@ Architecture: amd64
 Maintainer: mahdifarshid <mahdifarshid@users.noreply.github.com>
 Installed-Size: 7813
 Depends: mysql-client | mysql-client-8.0 | default-mysql-client
-Filename: pool/main/go-dbadmin_1.0.0-1_amd64.deb
+Filename: pool/master/go-dbadmin_1.0.0-1_amd64.deb
 Size: 2925694
 MD5sum: 8e97eb4a33762c5bb83a81998a286aa1
 SHA1: 62a0d969b480169057585745ebed2927a41d7972
